@@ -76,12 +76,11 @@ During test execution, several critical business logic and UX defects were found
 ```text
 
 ├── Rokomari_Bug_01_UI_Reload.docx
-├── Rokomari_Bug_02_Rating_Filter.docx
-├── Rokomari_Bug_03_Routing_Error.docx
+├── Rokomari_Bug_04_Routing_Error.docx
 ├── Test_Cases/
-│   └── Rokomari_Test_Cases.xlsx
+│   └── Rokomari_Testing.xlsx
 ├── Test_Scenarios/
-│   └── Rokomari_Test_Cases.xlsx
+│   └── Rokomari_Testing.xlsx
 ├── Mind_Map/
-│   └── Rokomari_Test_Cases.xlsx
+│   └── Rokomari_Testing.xlsx
 └── README.md
