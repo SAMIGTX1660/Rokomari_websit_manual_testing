@@ -84,3 +84,9 @@ During test execution, several critical business logic and UX defects were found
 ├── Mind_Map/
 │   └── Rokomari_Testing.xlsx
 └── README.md
+
+
+👤 Author
+
+Muhammed Jabed Iqbal Sami
+QA Analyst / Software Tester
