@@ -74,14 +74,14 @@ During test execution, several critical business logic and UX defects were found
 
 ## 📁 Repository Structure
 ```text
-├── Bug_Reports/
-│   ├── Rokomari_Bug_01_UI_Reload.docx
-│   ├── Rokomari_Bug_02_Rating_Filter.docx
-│   └── Rokomari_Bug_03_Routing_Error.docx
+
+├── Rokomari_Bug_01_UI_Reload.docx
+├── Rokomari_Bug_02_Rating_Filter.docx
+├── Rokomari_Bug_03_Routing_Error.docx
 ├── Test_Cases/
 │   └── Rokomari_Test_Cases.xlsx
 ├── Test_Scenarios/
-│   └── Rokomari_Test_Scenarios.csv
+│   └── Rokomari_Test_Cases.xlsx
 ├── Mind_Map/
-│   └── Rokomari_QA_MindMap.png (or .pdf)
+│   └── Rokomari_Test_Cases.xlsx
 └── README.md
