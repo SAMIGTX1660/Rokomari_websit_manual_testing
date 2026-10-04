@@ -9,6 +9,7 @@ This repository contains comprehensive manual testing documentation for **Rokoma
 
 The goal of this project was to ensure a flawless user journey from product discovery to secure checkout, utilizing industry-standard QA methodologies.
 
+Website link: https://www.rokomari.com/
 ---
 
 ## 🎯 Testing Scope & Features Covered
